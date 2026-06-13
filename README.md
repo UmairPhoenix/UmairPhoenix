@@ -6,12 +6,6 @@
   Building scalable SaaS, fintech, healthcare, mobile, and AI-powered products from idea to production.
 </p>
 
-<p align="center">
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
-  <a href="YOUR_PORTFOLIO_URL">Portfolio</a> •
-  <a href="YOUR_TOPTAL_PROFILE_URL">Toptal</a>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
