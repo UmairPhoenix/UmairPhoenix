@@ -90,8 +90,6 @@ Led delivery of a HIPAA-compliant healthcare app for a wellness care center, ena
 ### AutoNova Systems — Enterprise Automotive Backend
 Built core backend modules for an NDA-protected dealership operations platform using NestJS, PostgreSQL, Prisma, Bull/Redis, RBAC, real-time notifications, DMS integrations, and clean architecture.
 
-### Rung Mahal — eCommerce & LLM Data Pipeline
-Built a premium fashion eCommerce platform and engineered a scraping plus LLM-normalization pipeline that processed 30,000+ products from 150+ websites into clean, searchable product listings.
 
 ---
 
