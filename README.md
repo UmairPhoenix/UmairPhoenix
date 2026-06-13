@@ -109,11 +109,11 @@ Built a premium fashion eCommerce platform and engineered a scraping plus LLM-no
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=UmairPhoenix&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UmairPhoenix&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -121,9 +121,3 @@ Built a premium fashion eCommerce platform and engineered a scraping plus LLM-no
 ## 🤝 Connect
 
 I enjoy working with teams that care about product quality, scalable systems, and practical AI adoption.
-
-<p>
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
-  <a href="YOUR_PORTFOLIO_URL">Portfolio</a> •
-  <a href="mailto:YOUR_EMAIL">Email</a>
-</p>
